@@ -1,0 +1,7 @@
+{
+    "dependencies":["."],
+    "graphs":{
+        "tool_agent":"agent:graphs"
+    },
+    "env":"../.env"
+}
